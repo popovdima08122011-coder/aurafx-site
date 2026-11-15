@@ -1,0 +1,18 @@
+# Публичный репозиторий сайта: никаких ключей, секретов и файлов бэкенда
+launcher-keys*
+*keys*.txt
+*keys*.sql
+*.sql
+.env
+.env.*
+.dev.vars
+*.pem
+*.key
+*.p12
+wrangler.toml
+backend/
+node_modules/
+.wrangler/
+*.log
+Thumbs.db
+desktop.ini

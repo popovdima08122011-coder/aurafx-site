@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://popovdima08122011-coder.github.io/aurafx-site/sitemap.xml
